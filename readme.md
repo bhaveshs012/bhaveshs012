@@ -1,4 +1,4 @@
-<img src="hello.gif" height= "300px" width = "300px" alt="hii"/>
+<img src="hello.gif" height= "300px" width = "300px" alt="hii" align = "center" />
 <h1>I'm Bhavesh</h1>
 <h3 align="center">A Python Enthusiast</h3>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bhaveshss012@gmail.com**
 
-<img src = "python.jpg" height = "500px" width = "500px" align="right"/>
+<img src = "python.jpg" height = "250px" width = "250px" align="right"/>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -42,5 +42,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshs012&show_icons=true&locale=en&layout=compact" alt="bhaveshs012" /></p>
-
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshs012&show_icons=true&locale=en" alt="bhaveshs012" /></p>
