@@ -1,5 +1,4 @@
-<img src="hello.gif" height= "300px" width = "300px" alt="hii" align = "center" />
-<h1>I'm Bhavesh</h1>
+<h1>Hello I'm Bhavesh</h1>
 <h3 align="center">A Python Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshs012&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshs012" /> </p>
@@ -42,6 +41,11 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshs012&show_icons=true&locale=en&layout=compact" alt="bhaveshs012" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshs012&show_icons=true&locale=en" alt="bhaveshs012" /></p>
