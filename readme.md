@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshs012&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshs012" /> </p>
 
-- 🌱 I’m currently learning **Python, Django, Full Stack Web Development**
+- 🌱 I’m currently learning **Python, Flutter, Full Stack Web Development**
 
 - 🤝 I’m looking for help with **React Js**
 
