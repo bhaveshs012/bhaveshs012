@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=bhaveshs012&icon=1&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on creating a social app for travelers.<br>🤝 I’m looking for help with Node Js<br>🌱 I’m currently learning Machine Learning and Node Js<br>💬 Ask me about Flutter and Python
+🔭 I’m currently working on creating a social app for travelers using Flutter.<br>🤝 I’m looking for help with Node Js<br>🌱 I’m currently learning Machine Learning and Node Js<br>💬 Ask me about Flutter and Python
 
 
 ## 🌐 Socials:
